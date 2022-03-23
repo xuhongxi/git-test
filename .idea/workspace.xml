@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdf3922e-8aa7-4361-84eb-edc27c025bb9" name="Default Changelist" comment="" />
+    <list default="true" id="cdf3922e-8aa7-4361-84eb-edc27c025bb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/test/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/test/TestMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648024741602</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="two commit">
+      <created>1648026266690</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648026266690</updated>
+    </task>
+    <task id="LOCAL-00006" summary="tree commit">
+      <created>1648026326023</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648026326023</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="one commit" />
     <MESSAGE value="two commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="two commit" />
+    <MESSAGE value="tree commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="tree commit" />
   </component>
 </project>
